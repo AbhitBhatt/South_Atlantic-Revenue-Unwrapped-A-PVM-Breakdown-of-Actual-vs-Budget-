@@ -119,15 +119,49 @@ PAT performance vs targets and contribution per product/channel
 
 ## 📷 Screenshots
 
-> To add screenshots in your repo:
-> 1. Create a folder named `/images` in your GitHub repo
-> 2. Upload dashboard screenshots
-> 3. Embed like this:
-> ```markdown
-> ![Dashboard Overview](./images/dashboard-overview.png)
-> ```
+## 📷 Dashboard Previews
 
----
+### 📌 Overview
+![Overview](./images/Overview-Page1.png)
+
+### 📌 Expenditure Analysis
+![Expenditure](./images/Expenditure_Page2.png)
+![Expense Analysis Part 1](./images/Expense_Analysis_pg7.png)
+![Expense Analysis Part 2](./images/Expense_Analysis_Pt2_page7.png)
+
+### 📌 GP vs NR Variance
+![GP vs NR Variance](./images/GPvar_vsNrVar_Page8.png)
+
+### 📌 Actual vs Budget Performance
+![Actual vs Budget](./images/Actual_vs_budget_perform_Page4.png)
+
+### 📌 PVM Analysis
+![PVM Analysis](./images/PVM_Analysis_pg6.png)
+
+### 📌 Pareto Analysis (SKU Contribution)
+![Pareto Analysis](./images/Pareto_Analysis_pg5.png)
+
+### 📌 Profitability Analysis
+![Profitability](./images/Profitability_Analysis_Page16.png)
+
+### 📌 Product-Level Analysis
+![Product Analysis](./images/Product_Analysis_pg12.png)
+
+### 📌 Cluster Analysis
+![Cluster Analysis](./images/Cluster_Analysis_Pg10.png)
+
+### 📌 Channel-Wise Performance
+![Channel Analysis](./images/Channels_Analysis_Pg9.png)
+
+### 📌 Location Breakdown
+![Location Analysis](./images/Location_Analysis_pg11.png)
+
+### 📌 Marketing Spend & Efficiency
+![Marketing Efficiency](./images/Marketing_&_Efficiency_Page15.png)
+
+### 📌 Discounts & Trade Spend
+![Discount and Trade Spend](./images/Discount_&_TradeSpent_Pg14.png)
+
 
 ## 🚀 How to Use
 
