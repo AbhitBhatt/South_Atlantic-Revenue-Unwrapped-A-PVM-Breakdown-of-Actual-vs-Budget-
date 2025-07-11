@@ -21,7 +21,7 @@ This dashboard analyzes performance using key financial and sales indicators, in
 
 ## ✅ Key Features
 
-- 22 Insightful Analysis Pages
+- 17 Insightful Analysis Pages
 - Dynamic KPIs and Slicers
 - Variety of Chart Types: Area, Donut, Line, Stacked/Clustered Column, Funnel, Treemap, Scatter, Decomposition Tree, Matrix
 - Intelligent findings from over **477,000+ sales records**
