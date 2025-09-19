@@ -12,6 +12,7 @@ This dashboard analyzes performance using key financial and sales indicators, in
 - Year-over-Year (YoY) Comparisons
 - Budget vs. Actual Analysis
 - Price-Volume-Mix (PVM) Contribution
+- Variance Analysis between Actual and Budget vis NR & GP
 - SKU-level Pareto Analysis
 - Cluster, Channel, and Location-wise performance
 - Time-Series Breakdown
